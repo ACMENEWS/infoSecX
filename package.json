@@ -1,0 +1,39 @@
+{
+  "name": "infosecx",
+  "version": "1.0.0",
+  "description": "ACMENEWS InfoSec API Exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin A Davidson",
+  "license": "COMMERCIAL",
+  "dependencies": {
+    "asana": "^0.17.3",
+    "async": "^2.6.0",
+    "atob": "^2.1.2",
+    "axios": "^0.19.0",
+    "body-parser": "^1.18.2",
+    "btoa": "^1.2.1",
+    "compression": "^1.7.1",
+    "config": "^3.2.3",
+    "dnsd": "^0.9.6",
+    "express": "^4.16.2",
+    "express-fileupload": "^1.1.6-alpha.5",
+    "form-data": "^2.5.1",
+    "helmet": "^3.9.0",
+    "nonce": "^1.0.4",
+    "otx": "^1.2.1",
+    "shodan-client": "^3.1.4",
+    "stringstream": "^1.0.0",
+    "swagger-jsdoc": "^3.4.0",
+    "swagger-ui": "^3.24.0",
+    "swagger-ui-express": "^4.1.2",
+    "uuid": "^3.3.3",
+    "xfe": "^0.2.0"
+  },
+  "engines": {
+    "node": ">=12.12.0",
+    "npm": ">=6.11.3"
+  }
+}

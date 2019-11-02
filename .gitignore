@@ -1,0 +1,10 @@
+.idea/
+config/default.json
+config/sepm from PRIME all device list.json
+config/todo scratchpad.txt
+cert.509
+node_modules/
+src/
+dist/app/
+config/sepm all acmenews malware alerts.json
+example of symantec devices inventory output.json
