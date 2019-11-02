@@ -8,3 +8,4 @@ src/
 dist/app/
 config/sepm all acmenews malware alerts.json
 example of symantec devices inventory output.json
+app/config.ts
