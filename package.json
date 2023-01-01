@@ -16,7 +16,7 @@
     "body-parser": "^1.18.2",
     "btoa": "^1.2.1",
     "compression": "^1.7.1",
-    "config": "^3.2.4",
+    "config": "^3.3.8",
     "diff": "^4.0.1",
     "dnsd": "^0.9.6",
     "express": "^4.16.2",
